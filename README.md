@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ByteDance, Beijing<br>
+🔭 Frone end developer
 
 
 ## 🌐 Socials:
